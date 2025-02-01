@@ -1,6 +1,6 @@
 # Lumina
 
-Lumina is a professional web platform designed to connect students and professionals with exciting ✨ **internship** and 💼 **job opportunities**. It offers a streamlined, user-friendly interface to help individuals unlock their career potential through various programs, such as internships, mentorships, and job listings.
+Lumina is a professional web platform designed to connect students and professionals with exciting ✨ **internship** and **job opportunities**. It offers a streamlined, user-friendly interface to help individuals unlock their career potential through various programs, such as internships, mentorships, and job listings.
 
 ## Features
 - **Internship Opportunities**: Explore various internship programs tailored for students and early-career professionals.
